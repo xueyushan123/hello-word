@@ -1,3 +1,2 @@
-# hello-word
-Hello,word!
+# hello-world
 My first repository on GitHub
